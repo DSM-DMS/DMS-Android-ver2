@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color name="colorPrimary">#A7C9DA</color>
+    <color name="colorPrimaryDark">#84AFC5</color>
+    <color name="colorAccent">#B8E8D7</color>
+
+    <color name="colorNo1">#63A0BF</color>
+    <color name="colorNo2">#75B1D0</color>
+    <color name="colorNo3">#89B9D0</color>
+    <color name="colorNo4">#A7C9DA</color>
+    <color name="colorNo5">#B2D4E6</color>
+    <color name="colorNo6">#DBEAF2</color>
+
+    <color name="colorMint">#B8E8D7</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorIntro">#B388FF</color>
+    <color name="colorSplash">#7DB1DB</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGray">#D5D5D5</color>
+
+    <color name="colorBlue">#4BA0FD</color>
+
+    <color name="colorClear">@android:color/transparent</color>
+
+    <color name="done">#64DD17</color>
+    <color name="yellow">#FFD732</color>
+    <color name="warning">#D50000</color>
+
+    <!--Widget background-->
+    <color name = "widgetBreakfastBackground" >#fafafa</color>
+    <color name = "widgetLunchBackground" >#89939f</color>
+    <color name = "widgetDinnerBackground" >#575d81</color>
+
+    <!--Widget Font & Date-->
+    <color name="widgetBreakfastFont">#000000</color>
+    <color name="widgetBreakfastDate">#555555</color>
+    <color name="widgetLunchDinnerFont">#ffffff</color>
+    <color name="widgetLunchDinnerDate">#eeeeee</color>
+
 </resources>
